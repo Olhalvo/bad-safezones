@@ -1,0 +1,10 @@
+name: Safezones
+version: 0.0.1
+main: safezones_by_wellthatssad_for_snake.safezones.Safezones
+api-version: 1.16
+authors: [ Well_thatssad ]
+description: N/A
+commands:
+  sz:
+    usage: "/<command> [create, delete]"
+    description: Creates a safe zone
